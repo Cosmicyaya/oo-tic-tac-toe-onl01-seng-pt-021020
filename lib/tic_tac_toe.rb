@@ -45,5 +45,5 @@ end
      end
    end
    def turn_count(board)
-     
+     while 
    end
