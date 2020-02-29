@@ -37,4 +37,4 @@ end
        index = input_to_index(input)
      
      if valid move?(board, index,)
-       move
+       move(board, index, x)
