@@ -44,11 +44,11 @@ end
        turn (board)
      end
    end
+   
    def turn_count(board)
-    
-    occupied spaces = 0
-    
-    counter = 0 
+  board.count{|token| token == "X" || token == "O"}
+end
+
   while counter < board.size
     if position_taken?(board, index)
     end
