@@ -17,7 +17,7 @@ WIN_COMBINATIONS = [
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
     def input_to_index(input)
-      input.to_ -1
+      input.to_ - 1
     end
     
     def move(board, index, token = "X")
