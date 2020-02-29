@@ -19,3 +19,5 @@ end
     def input_to_index(input)
       input.to_ -1
     end
+    
+    def move
