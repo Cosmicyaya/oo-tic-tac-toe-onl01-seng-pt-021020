@@ -28,4 +28,4 @@ end
       board[index] != ""
       
       def valid move
-       index.between?(0,8)
+       index.between?(0,8) && !position_taken
