@@ -33,4 +33,5 @@ end
      
      def turn(board)
        puts "Your move!"
-       input gets.strip
+       input = gets.strip
+       
