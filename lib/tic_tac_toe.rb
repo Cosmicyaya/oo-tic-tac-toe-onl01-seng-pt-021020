@@ -30,3 +30,5 @@ end
       def valid move
        index.between?(0,8) && !position_taken?(board, index)
      end
+     
+     def turn(board, move)
