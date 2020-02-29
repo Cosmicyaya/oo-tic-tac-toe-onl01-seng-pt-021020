@@ -51,5 +51,5 @@ end
     counter = 0 
     while counter <= board.size
     
-    counter + 1
+    counter += 1
    end
