@@ -27,3 +27,5 @@ end
     def position_taken(board, index)
       board[index] != ""
       
+      def valid move
+        board[index] == ""
