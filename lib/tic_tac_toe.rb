@@ -47,6 +47,5 @@ end
    def turn_count(board)
     
     occupied spaces = 0
-    
-    
+    while counter 
    end
