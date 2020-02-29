@@ -49,8 +49,8 @@ end
     occupied spaces = 0
     
     counter = 0 
-    while counter < board.size
-    position_taken?(board, index)
+  while counter < board.size
+    if position_taken?(board, index)
     counter += 1
   end
   
