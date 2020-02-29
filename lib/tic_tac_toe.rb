@@ -41,3 +41,5 @@ end
        display_board
      else
        turn (board)
+     end
+   end
