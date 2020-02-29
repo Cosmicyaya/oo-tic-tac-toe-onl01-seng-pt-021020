@@ -35,4 +35,5 @@ end
        puts "Your move!"
        input = gets.strip
        index = input_to_index(input)
-     end
+     
+     if valid move
