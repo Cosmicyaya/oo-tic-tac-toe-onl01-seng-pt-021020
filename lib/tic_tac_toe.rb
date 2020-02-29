@@ -38,3 +38,4 @@ end
      
      if valid move?(board, index,)
        move(board, index, "X")
+       display_board
