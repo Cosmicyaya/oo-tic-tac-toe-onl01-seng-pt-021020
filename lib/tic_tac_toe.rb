@@ -51,7 +51,6 @@ end
     counter = 0 
     while counter < board.size
     position_taken?(board, index)
-    
     counter += 1
   end
    end
