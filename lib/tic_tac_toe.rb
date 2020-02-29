@@ -20,4 +20,4 @@ end
       input.to_ -1
     end
     
-    def move(board,index,token,X)
+    def move(board,index,token = "X")
