@@ -25,3 +25,4 @@ end
     end
     
     def position_taken
+      boad, index
