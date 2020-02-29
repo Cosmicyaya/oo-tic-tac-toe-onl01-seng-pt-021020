@@ -40,6 +40,7 @@ end
        move(board, index, "X")
        display_board
      else
+       puts "That turn is invalid"
        turn (board)
      end
    end
