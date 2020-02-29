@@ -24,5 +24,4 @@ end
       board[index] = token
     end
     
-    def position_taken
-      boad, index
+    def position_taken(board)
