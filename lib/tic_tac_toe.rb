@@ -53,4 +53,4 @@ end
     position_taken?(board, index)
     counter += 1
   end
-   end
+  
