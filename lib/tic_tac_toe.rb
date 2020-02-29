@@ -34,4 +34,5 @@ end
      def turn(board)
        puts "Your move!"
        input = gets.strip
-       index = input_to_index
+       index = input_to_index(input)
+     end
