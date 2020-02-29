@@ -49,5 +49,5 @@ end
     occupied spaces = 0
     
     counter = 0 
-    while counter <=
+    while counter <= board.size
    end
