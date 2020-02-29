@@ -52,4 +52,5 @@ end
     while counter <= board.size
     
     counter += 1
+  end
    end
