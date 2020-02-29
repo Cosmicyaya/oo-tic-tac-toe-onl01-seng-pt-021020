@@ -55,5 +55,5 @@ end
     counter += 1
   end
   
-  
+    occupied_spaces
   
