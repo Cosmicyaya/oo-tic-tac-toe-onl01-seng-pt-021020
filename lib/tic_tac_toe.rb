@@ -28,4 +28,4 @@ end
       board[index] != ""
       
       def valid move
-        
+       index
