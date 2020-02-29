@@ -40,4 +40,4 @@ end
        move(board, index, "X")
        display_board
      else turn
-       board
+       boa
