@@ -39,5 +39,5 @@ end
      if valid move?(board, index,)
        move(board, index, "X")
        display_board
-     else turn
-       boa
+     else
+       turn board
